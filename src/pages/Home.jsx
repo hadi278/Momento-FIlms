@@ -1,9 +1,10 @@
 import React from 'react';
-import Navbar from '../component/Navbar-section'
-import About from '../component/About-Section'
-import TeamSection from '../component/Team-Section'
-import ContactSection from '../component/Contact-Section'
-import HeroSection from '../component/Hero-Section';
+import Navbar from '../Component/Navbar-section'
+import About from '../Component/About-Section'
+import TeamSection from '../Component/Team-Section'
+import ContactSection from '../Component/Contact-Section'
+import HeroSection from '../Component/Hero-Section';
+import RecentWork from '../Component/Recent-work';
 
 const Home = () => {
     return (
@@ -12,6 +13,7 @@ const Home = () => {
             <HeroSection/>
             <About/>
             <TeamSection/>
+            <RecentWork/>
             <ContactSection/>
         </div>
     );

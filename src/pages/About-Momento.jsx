@@ -1,7 +1,7 @@
 import React from 'react';
-import NavbarSection from '../component/Navbar-section';
-import BlogSection from '../component/Blog.section';
-import FooterSection from '../component/Footer-Section';
+import NavbarSection from '../Component/Navbar-section';
+import BlogSection from '../Component/Blog.section';
+import FooterSection from '../Component/Footer-Section';
 
 const AboutMomento = () => {
     return (

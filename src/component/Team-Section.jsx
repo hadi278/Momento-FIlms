@@ -14,7 +14,7 @@ const TeamSection = () => {
           momento films
         </h2>
         <div className="sm:grid grid-cols-2 my-16 ">
-          <div className="text-justify mx-10 my-auto ">
+          <div className="text-justify mx-16 my-auto ">
             <h1 className="text-[#EEEEEE] font-semibold text-xl">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam
               maxime quisquam assumenda optio perspiciatis vero. Incidunt cumque
@@ -57,13 +57,13 @@ const TeamSection = () => {
             </div>
           </div>
           <div>
-            <div className="bg-orange-500 w-1/2 p-5 rounded-t-3xl mx-auto shadow-inner shadow-inner">
+            <div className=" w-1/2 p-5 rounded-t-3xl mx-auto shadow-inner shadow-inner">
               <img
                 src="src/assets/img/Studio-Photos/Circle-Image-3.png"
                 alt=""
                 className="border-[10px] rounded-full"
               />
-              <h1 className="text-center my-10 text-3xl">
+              <h1 className="text-center my-10 text-3xl text-[#EEEEEE]">
                 Muhammad Fadhli Robby
               </h1>
             </div>
